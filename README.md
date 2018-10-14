@@ -20,5 +20,5 @@ Note that this mod will let you spawn in any item, but it does not trigger any e
 
 > If you set your game to pause when unfocused, the game will be paused while spawning items.
 
-* Press <kbd>I</kbd> in-game to open the item spawner.
+* Press <kbd>U</kbd> in-game to open the item spawner.
 * Select an item to spawn it.
